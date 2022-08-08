@@ -7,6 +7,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoLopeso&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+<br>
+
 ### Principais skills:
 <div style="display: inline_block">
   <img align="center" alt="Leo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -62,7 +64,7 @@
   <a href="https://www.linkedin.com/in/leonardo-lopes-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
  
-<br>
+<br />
 
 <div align="center">
 <br><p align="centre"><b>Contagem de visitantes</b></p>  
