@@ -70,3 +70,13 @@
 <br><p align="centre"><b>Contagem de visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LeonardoLopeso}/count.svg" /></p> 
 <br></div>
+
+<div style="display: inline_block">
+ <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoLopeso&repo=dio-node-user-authentication-api&cache_seconds=86400&theme=city_lights"/>
+ <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoLopeso&repo=api-node&cache_seconds=86400&theme=city_lights"/>
+ <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoLopeso&repo=form-curriculo-teste&cache_seconds=86400&theme=city_lights"/>
+ <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoLopeso&repo=todo-react&cache_seconds=86400&theme=city_lights"/>
+ <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoLopeso&repo=instagram-dio&cache_seconds=86400&theme=city_lights"/>
+ <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoLopeso&repo=facebook-ui&cache_seconds=86400&theme=city_lights"/>
+ <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoLopeso&repo=servico-de-busca&cache_seconds=86400&theme=city_lights"/>
+</div>
